@@ -12,7 +12,7 @@ The analysis covers **9,994 transaction records** from 2014–2017.
 
 ## 📈 Dashboard
 
-![Retail Sales & Profitability Dashboard](images/retail_sales_dashboard.png)
+![Retail Sales & Profitability Dashboard]images/retail_sales_dashboard.png
 
 The interactive Power BI dashboard allows users to filter performance by **Year, Region, and Product Category**.
 
